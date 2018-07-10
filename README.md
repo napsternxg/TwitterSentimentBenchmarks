@@ -17,8 +17,7 @@ If you plan to use this analysis please cite the following items:
 
 @misc{shubhanshu_mishra_2018_1308462,
   author       = {Shubhanshu Mishra},
-  title        = {{napsternxg/TwitterSentimentBenchmarks: Submission 
-                   for HyperText 2018 used in the paper}},
+  title        = {Twitter sentiment benchmark data analysis},
   month        = jul,
   year         = 2018,
   doi          = {10.5281/zenodo.1308462},
