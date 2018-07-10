@@ -30,6 +30,6 @@ Code for this analysis will can be seen in following files:
 * [Models based on meta, text, and joint features - Text_models.ipynb](./Text_models.ipynb)
 * [Get user's timeline tweets - Get_user_timelines.ipynb](./Get_user_timelines.ipynb)
 * [Predict timeline tweets using Vader Sentiment - Vader_sentiment_prediction.ipynb](./Vader_sentiment_prediction.ipynb)
-* [Analyze the timeline data - Time line aggregates.ipynb](./Time line aggregates.ipynb)
+* [Analyze the timeline data - Time_line_aggregates.ipynb](./Time_line_aggregates.ipynb)
 
 Code released under [GNU General Public License v3.0](./LICENSE)
