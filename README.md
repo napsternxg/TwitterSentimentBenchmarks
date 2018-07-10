@@ -1,7 +1,9 @@
+[![DOI](https://zenodo.org/badge/132860088.svg)](https://zenodo.org/badge/latestdoi/132860088)
+
 # TwitterSentimentBenchmarkDataAnalysis
 Analysis on twitter sentiment analysis benchmark datasets as described in the paper [Shubhanshu Mishra and Jana Diesner. 2018. Detecting the Correlation between Sentiment and User-level as well as Text-Level Meta-data from Benchmark Corpora. In Proceedings of the 29th on Hypertext and Social Media (HT '18). ACM, New York, NY, USA, 2-10. DOI: https://doi.org/10.1145/3209542.3209562](https://dl.acm.org/citation.cfm?id=3209562)
 
-If you plan to use this analysis please cite the following paper:
+If you plan to use this analysis please cite the following items:
 ```
 @inproceedings{Mishra2018,
   doi = {10.1145/3209542.3209562},
@@ -11,6 +13,16 @@ If you plan to use this analysis please cite the following paper:
   author = {Shubhanshu Mishra and Jana Diesner},
   title = {Detecting the Correlation between Sentiment and User-level as well as Text-Level Meta-data from Benchmark Corpora},
   booktitle = {Proceedings of the 29th on Hypertext and Social Media  - {HT} {\textquotesingle}18}
+}
+
+@misc{shubhanshu_mishra_2018_1308462,
+  author       = {Shubhanshu Mishra},
+  title        = {{napsternxg/TwitterSentimentBenchmarks: Submission 
+                   for HyperText 2018 used in the paper}},
+  month        = jul,
+  year         = 2018,
+  doi          = {10.5281/zenodo.1308462},
+  url          = {https://doi.org/10.5281/zenodo.1308462}
 }
 ```
 
