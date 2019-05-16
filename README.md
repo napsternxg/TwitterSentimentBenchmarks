@@ -25,6 +25,26 @@ If you plan to use this analysis please cite the following items:
 }
 ```
 
+## Download the data with training, validation, and test splits
+
+You can use the training, validation, and test splits `data_with_train_dev_test_split.txt.gz` as used in the paper by downloading the data in the data folder: 
+
+```
+$ ls -ltrh data/
+total 11M
+-rw-rw-r-- 1 smishra8 is-sailgroup 5.1M May 16 04:26 joined_data_all.txt.gz
+-rw-rw-r-- 1 smishra8 is-sailgroup 5.1M May 16 04:48 data_with_train_dev_test_split.txt.gz
+```
+
+The file was created as follows: 
+
+```bash
+cd data && gunzip joined_data_all.txt.gz
+python create_data_splits.py
+```
+
+
+
 ## Data sources:
 * SemEval - http://alt.qcri.org/semeval2017/task4/
 * Airline - https://www.kaggle.com/crowdflower/twitter-airline-sentiment
